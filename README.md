@@ -11,12 +11,13 @@
   <img align="center" alt="mor4is-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mor4is-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mor4is-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="mor4is-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" >
   <img align="center" alt="mor4is-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="mor4is-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" ></div> 
+</div> 
   
   
-## Meu nome é Sérgio Morais
-<p>Nsci em 1998</p> 
+## Muito Prazer! Me chamo Sergio Morais!
+<p></p> 
   <div style="display: inline_block"><br>
   <img align="right" alt="mor4is-pic" height="160" style="border-radius:50px;" src="https://i.pinimg.com/originals/d7/93/26/d79326896d817210be7027691fe06c0d.jpg">
   </div>
