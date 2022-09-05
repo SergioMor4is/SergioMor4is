@@ -12,7 +12,7 @@
   <img align="center" alt="mor4is-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mor4is-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="mor4is-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/XDdsJoGvQ8Z42M8s1h/giphy.gif">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/eoxomXXVL2S0E/giphy.gif?cid=ecf05e47go0vtjo0vghrwsuzuhfxjr0icvn4762kamif9fxx&rid=giphy.gif&ct=g">
 </div>
    
 ###
