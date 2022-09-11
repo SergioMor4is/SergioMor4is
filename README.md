@@ -1,4 +1,4 @@
-## Seja Bem Vindo a minha página!
+## Welcome to my GitHub's Page!
 
 <div align="center">
   <a href="https://github.com/SergioMor4is">
@@ -16,8 +16,17 @@
 </div> 
   
   
-## Muito Prazer! Me chamo Sergio Morais!
-<p></p> 
+## Nice to meet you! You can call me Morais! My name is Sérgio Morais!
+<p>
+Born in april 98's
+
+Passionate for Technology
+
+I'm starting in the world of "T.I", discovering and falling more and more in love with the area.
+
+I'm currently studying PHP, HTML & Css and JavaScript.
+
+</p> 
   <div style="display: inline_block"><br>
   <img align="right" alt="mor4is-pic" height="160" style="border-radius:50px;" src="https://i.pinimg.com/originals/d7/93/26/d79326896d817210be7027691fe06c0d.jpg">
   </div>
