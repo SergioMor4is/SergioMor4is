@@ -27,13 +27,10 @@ I'm starting in the world of "T.I", discovering and falling more and more in lov
 I'm currently studying PHP, HTML & Css and JavaScript.
 
 </p> 
-  <div style="display: inline_block"><br>
-  <img align="right" alt="mor4is-pic" height="160" style="border-radius:50px;" src="https://i.pinimg.com/originals/d7/93/26/d79326896d817210be7027691fe06c0d.jpg">
+  <div align="center" style="display: inline_block"><br>
+  <img alt="mor4is-pic" height= 400" style="border-radius:50px;" src="https://lh3.googleusercontent.com/9vvkNsdI2PKL4PTiBj6-1Mn2tkVRY7mZ1Co54SYLFkrf79I7343PnYdHlx5pOvbXMfSDEF5RsOFjWlWhWMxDfXrWG2_AK-12_8FWIkuFpIUnmZCGDWPLI3Vuhu2rzbU_KJ5xEKyhK3u4epfHyMBp-Ww-hM7Hedwxo2fMRmMzmsbqm-plTLCa75-KKFgbwZdW-i_VCY8hK_wQZUobbnYAoFMZ2TisqTxI_GHMlaD4vX2gsZ2SXKp2pH1vKUowXvzPkiqDxWVxPz---G820XaZJPTTW7_eL0wuiLfhLodt7-g8Dj7iFcHH8o6wGaCmlqWxGRwABhDlz4TUDdgi4oWDVXAXufLj0aIYbmovx2Q5ZSeYDS3L6uuRbCIeong_ce_ipAhI6Zw6a7MPVengqtxZHlkiAxe0DN6348NmJYplmpbXzw_bA1Wgrn0waUC23NeRMcaPym4Kmm8b-dm6mAcICyJ9uwfrV5c9aEgUHtUvkv6MxxOAQQF8jzMgget1EWtTaflZ4wbK9zCq-o3S7CYLATFtNwoFbHcA225nPR76nSGjTX8zJLGKEaB-zyVnpCUjtPEVMKrdv97uhcXwJIkyLYwgsYo1N49sbg2Z2nRBMBIsfA-XRdO0MdkKy6HSAcm9PYw4QqRxgw1xX_wJcPaC_IL5Ui8NWkFaButcmeKSH1gZwZKmch7kjt14dfCs7eXT-9Lx8jdns-bV2QIkb0ac4am1zlSw4T0eN_D9VO2T3ZePB86oWevXJXh0BZLayQ=w972-h548-no?authuser=0">
   </div>
- <br></br>
- <br></br>
- <br></br>
- <br></br>
+ 
  
  ##
     
