@@ -33,7 +33,7 @@ I'm currently studying PHP, HTML & Css and JavaScript.
   </div>
 
   <div align="center" style="display: inline_block"><br>
-    <img alt="generate-tex" heigth= "200" style="border-radius:50px;" src="C:\Users\Cacau\Documents\Prog\SergioMor4is\midia\generatedtext.png>" 
+    <img alt="generate-tex" heigth= "140" width="220" style="border-radius:10px;" src="https://www.familyfirst.net/wp-content/themes/familyfirst/img/logos/1_Group_Lockup_FF.png">
   
   </div>
 
