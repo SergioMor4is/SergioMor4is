@@ -30,7 +30,7 @@ I'm currently studying PHP, HTML & Css and JavaScript.
 
   <div align="center" style="display: inline_block"><br>
   <source media="(max-width: 600px)" srcset="https://github.com/SergioMor4is/SergioMor4is/blob/main/midia/img_familia-p.gif?raw=true" type="image/jpg">
-  <img alt="mor4is-pic" height= "450" width="900" style="border-radius:50px;" src="https://github.com/SergioMor4is/SergioMor4is/blob/main/midia/img_familia.gif?raw=true">
+  <img alt="mor4is-pic" height= "450" width="800" style="border-radius:50px;" src="https://github.com/SergioMor4is/SergioMor4is/blob/main/midia/img_familia.gif?raw=true">
   </div>
 
   <div align="center" style="display: inline_block"><br>
