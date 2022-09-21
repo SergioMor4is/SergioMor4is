@@ -17,7 +17,7 @@
   
   
 ## Nice to meet you! You can call me Morais! My name is Sérgio Morais!
-<p>
+<p style:font-family: 'Courier New'>
 Born in april 98's
 
 Passionate for Technology
