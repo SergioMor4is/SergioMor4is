@@ -42,6 +42,5 @@ I'm currently studying PHP, HTML & Css and JavaScript.
     
   
   
-![Snake animation](https://github.com/SergioMor4is/SergioMor4is/blob/output/github-contribution-grid-snake.svg)
   
 
