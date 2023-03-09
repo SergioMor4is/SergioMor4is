@@ -1,3 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Onda Musical</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body{
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              height: 100vh;
+              background-color: rgb(94, 194, 94);
+        }
+
+        .music{
+              width: 300px;
+              height: 200px;
+              position: relative;
+              display: inline-flex;
+              align-items: center;
+              justify-content: space-between;
+        }
+
+        .music .bar {
+              width: 12px;
+              border-radius: 10px;
+              background: white;
+              animation: movement 1.5s ease-in-out infinite;
+        }
+
+        @keyframes movement{
+              0%, 100%{
+                        height: 2px;
+              }
+              50%{
+                    height: 80px;
+              }
+      }
+
+        .music .bar:nth-child(1){
+              background: #000;
+              animation-delay: 1s;
+        }
+        .music .bar:nth-child(2){
+              background: green;
+              animation-delay: .8s;
+        }
+        .music .bar:nth-child(3){
+              background: #000;
+              animation-delay: .6s;
+        }
+        .music .bar:nth-child(4){
+              background: green;
+              animation-delay: .4s;
+        }
+        .music .bar:nth-child(5){
+              background: #000;
+              animation-delay: .2s;
+        }
+        .music .bar:nth-child(6){
+              background: green;
+              animation-delay: .2s;
+        }
+        .music .bar:nth-child(7){
+              background: #000;
+              animation-delay: .4s;
+        }
+        .music .bar:nth-child(8){
+              background: green;
+              animation-delay: .6s;
+        }
+        .music .bar:nth-child(9){
+              background: #000;
+              animation-delay: .8s;
+        }
+        .music .bar:nth-child(10){
+              background: green;
+              animation-delay: 1s;
+        }
+<style>
+</head>
+<body>
 ## Welcome to my GitHub's Page!
 
 <div align="center">
@@ -31,6 +116,22 @@ I'm currently studying PHP, HTML & Css and JavaScript.
 
  ##
     
+ 
+ <div class="music">
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+        <div class="bar"></div>
+  </div>
+  </body>
+</html>
+
   
   
   
