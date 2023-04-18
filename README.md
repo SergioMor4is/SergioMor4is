@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/SergioMor4is/SergioMor4is/blob/main/midia/banner%20(1).png)(https://github.com/SergioMor4is)
+![MasterHead](https://github.com/SergioMor4is/SergioMor4is/blob/main/midia/banner%20(1).png)
 
 <div align="center">
   <a href="https://github.com/SergioMor4is">
