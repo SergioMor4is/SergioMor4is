@@ -21,13 +21,7 @@ Some of the technologies I'm studying
 
 #
 
-
-
-<div align="center">
-  <a href="https://github.com/SergioMor4is">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SergioMor4is&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMor4is&layout=compact&langs_count=7&theme=dark"/>
-</div>
+## My Skills
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/SergioMor4is/HTML--CSS"><img align="center" alt="mor4is-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
