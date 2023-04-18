@@ -22,7 +22,7 @@ Some of the technologies I'm studying
 
 ## My Skills
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioMor4is&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioMor4is&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center" style="display: inline_block"><br>
   <a href="https://github.com/SergioMor4is/HTML--CSS"><img align="center" alt="mor4is-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
