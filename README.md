@@ -1,6 +1,19 @@
 
 ![MasterHead](https://github.com/SergioMor4is/SergioMor4is/blob/main/midia/banner%20(1).png)
 
+#
+## Nice to meet you! You can call me Morais! My name is Sérgio Morais!
+<p>
+Born in april 98's
+
+Passionate for Technology
+
+I'm starting in the world of "T.I", discovering and falling more and more in love with the area.
+
+I'm currently studying PHP, HTML & Css and JavaScript.
+
+</p> 
+
 <div align="center">
   <a href="https://github.com/SergioMor4is">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SergioMor4is&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,26 +29,9 @@
   <img align="center" alt="mor4is-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
 </div> 
   
-  
-## Nice to meet you! You can call me Morais! My name is Sérgio Morais!
-<p>
-Born in april 98's
-
-Passionate for Technology
-
-I'm starting in the world of "T.I", discovering and falling more and more in love with the area.
-
-I'm currently studying PHP, HTML & Css and JavaScript.
-
-</p> 
-
-
  ##
     
- <p>
-  <img align="center" alt="mor4is-React" height="30" width="40" src="">
- </p>
-
+ 
 
   
   
