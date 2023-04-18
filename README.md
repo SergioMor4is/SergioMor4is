@@ -3,9 +3,11 @@
 
 ## Nice to meet you! You can call me Morais! My name is Sérgio Morais!
 
+<p align="rigth">
 Born in april 98's, passionate for technology, I Started in the world of "T.I" in mid 2021, discovering and falling more and more in love with the area.
 I've always been curious, and I've always tried to understand how things work. I strive to be responsive and organized in all aspects of my life. <br>
 My professional and personal goals are very clear. And in conjunction with the two, I seek a gradual growth, professionally and in my education.
+</p>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
