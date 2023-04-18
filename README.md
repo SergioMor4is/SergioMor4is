@@ -1,7 +1,6 @@
 
 ![MasterHead](https://github.com/SergioMor4is/SergioMor4is/blob/main/midia/banner%20(1).png)
 
-#
 ## Nice to meet you! You can call me Morais! My name is Sérgio Morais!
 <p>
 Born in april 98's
@@ -14,8 +13,9 @@ I'm starting in the world of "T.I", discovering and falling more and more in lov
 
 </p> 
 
-##
-##
+#
+<br>
+<br>
 
 <div align="center">
   <a href="https://github.com/SergioMor4is">
