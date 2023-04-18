@@ -24,7 +24,7 @@ Some of the technologies I'm studying
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioMor4is&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMor4is&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMor4is)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="center" style="display: inline_block"><br>
