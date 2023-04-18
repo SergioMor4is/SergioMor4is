@@ -28,7 +28,7 @@ My professional and personal goals are very clear. And in conjunction with the t
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMor4is&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=v27kcwjs6bw4e0j6s7nh421o5&width={width}) 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=v27kcwjs6bw4e0j6s7nh421o5) 
 
   
  ##
