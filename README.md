@@ -2,7 +2,7 @@
 ![MasterHead](https://github.com/SergioMor4is/SergioMor4is/blob/main/midia/banner%20(1).png)
 
 ## Nice to meet you! You can call me Morais! My name is Sérgio Morais!
-<p>
+
 Born in april 98's, passionate for technology, I Started in the world of "T.I" in mid 2021, discovering and falling more and more in love with the area.
 Some of the technologies I'm studying
  
