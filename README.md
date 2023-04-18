@@ -6,8 +6,13 @@
 Born in april 98's, passionate for technology, I Started in the world of "T.I" in mid 2021, discovering and falling more and more in love with the area.
 Some of the technologies I'm studying
  
-*
-*
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/SergioMorais" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/s%C3%A9rgio-augusto-de-morais-7b9bbb17b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_s.morais/?__coig_restricted=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+</p>
 </p>  
 
 <div>
@@ -16,13 +21,7 @@ Some of the technologies I'm studying
 
 #
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/SergioMorais" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/s%C3%A9rgio-augusto-de-morais-7b9bbb17b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_s.morais/?__coig_restricted=1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
+
 
 <div align="center">
   <a href="https://github.com/SergioMor4is">
